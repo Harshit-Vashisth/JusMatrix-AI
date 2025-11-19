@@ -1,4 +1,4 @@
-#JusMatrix AI – AI-Powered Legal Research Assistant (US Edition)
+# JusMatrix AI – AI-Powered Legal Research Assistant (US Edition)
 ##Introduction
 
 Traditional legal research in the United States is slow, expensive, and often inaccessible for individuals, startups, and smaller legal teams. JusMatrix AI solves these challenges with an AI-powered, multi-agent, multi-RAG legal intelligence system designed to deliver accurate, citation-backed answers in seconds.
