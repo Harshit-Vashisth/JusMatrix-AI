@@ -1,5 +1,5 @@
 # JusMatrix AI – AI-Powered Legal Research Assistant (US Edition)
-##Introduction
+## Introduction
 
 Traditional legal research in the United States is slow, expensive, and often inaccessible for individuals, startups, and smaller legal teams. JusMatrix AI solves these challenges with an AI-powered, multi-agent, multi-RAG legal intelligence system designed to deliver accurate, citation-backed answers in seconds.
 
@@ -7,7 +7,7 @@ The system ingests court opinions, statutes, regulations, and legal memos, then 
 
 JusMatrix AI is being built as an end-to-end legal intelligence ecosystem for the United States, with long-term plans to expand into multilingual support and additional jurisdictions.
 
-##Team Makeup
+## Team Makeup
 
 Product Mentor: Adarsh Aggarwal
 
@@ -15,11 +15,11 @@ Lead Developer: Harshit Vashisth
 
 Their combined expertise in product strategy, full-stack engineering, and applied LLM systems drives the development of a scalable and impactful legal AI platform.
 
-##Tech Overview
+## Tech Overview
 
 JusMatrix AI is engineered with a modern, scalable stack optimized for performance, security, and legal-grade accuracy.
 
-##Frontend
+## Frontend
 
 React
 
@@ -31,7 +31,7 @@ FastAPI
 
 LangChain for agent routing and RAG pipelines
 
-##LLMs & AI Systems
+## LLMs & AI Systems
 
 Multi-model RAG using OpenAI, Gemini, and Azure AI Foundry
 
@@ -41,7 +41,7 @@ Azure AI Document Intelligence for large-scale PDF ingestion
 
 Multi-RAG pipelines with Azure AI Search, improving retrieval precision by 87%
 
-##Databases & Storage
+## Databases & Storage
 
 PostgreSQL
 
@@ -51,7 +51,7 @@ AWS S3 for PDF/dataset storage
 
 Redis for caching and rate limiting
 
-##Security
+## Security
 
 OAuth 2.0
 
@@ -61,7 +61,7 @@ AES-256 encryption at rest
 
 TLS 1.3 encryption in transit
 
-##Performance
+## Performance
 
 99% uptime SLA
 
@@ -69,7 +69,7 @@ TLS 1.3 encryption in transit
 
 Every claim must be backed by at least one citation
 
-##Use Case
+## Use Case
 
 JusMatrix AI supports:
 
@@ -84,12 +84,6 @@ Legal information platforms
 The system saves 12–15 hours of research per client, reduces missed precedents, and ensures higher-quality legal research outcomes.
 
 Scalability
-
-MVP Capacity:
-
-500 beta users
-
-5,000 queries / week
 
 Full Deployment:
 
